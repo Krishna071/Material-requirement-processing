@@ -1,0 +1,1 @@
+Material requirements planning (MRP) is a computer-based inventory management system designed to improve productivity for businesses. Companies use material requirements-planning systems to estimate quantities of raw materials and schedule their deliveries.
